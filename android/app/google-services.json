@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698252299721",
+    "project_id": "moappclasswork9",
+    "storage_bucket": "moappclasswork9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698252299721:android:a3d85f57a8c20d99886c18",
+        "android_client_info": {
+          "package_name": "com.example.classwork9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698252299721-bhrrvro8vja5meq8egp00fn1opscc1ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpgDr0Z9G2FuyNDUXxs-5sPIdC7CFHZhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698252299721-bhrrvro8vja5meq8egp00fn1opscc1ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
